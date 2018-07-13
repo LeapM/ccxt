@@ -72,6 +72,7 @@ module.exports = class btcmarkets extends Exchange {
                 'ETC/AUD': { 'id': 'ETC/AUD', 'symbol': 'ETC/AUD', 'base': 'ETC', 'quote': 'AUD', 'maker': 0.0085, 'taker': 0.0085, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}, 'precision': { 'price': 2 }},
                 'XRP/AUD': { 'id': 'XRP/AUD', 'symbol': 'XRP/AUD', 'base': 'XRP', 'quote': 'AUD', 'maker': 0.0085, 'taker': 0.0085, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}, 'precision': { 'price': 2 }},
                 'BCH/AUD': { 'id': 'BCH/AUD', 'symbol': 'BCH/AUD', 'base': 'BCH', 'quote': 'AUD', 'maker': 0.0085, 'taker': 0.0085, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}, 'precision': { 'price': 2 }},
+                'OMG/AUD': { 'id': 'OMG/AUD', 'symbol': 'OMG/AUD', 'base': 'OMG', 'quote': 'AUD', 'maker': 0.0085, 'taker': 0.0085, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}, 'precision': { 'price': 2 }},
                 'LTC/BTC': { 'id': 'LTC/BTC', 'symbol': 'LTC/BTC', 'base': 'LTC', 'quote': 'BTC', 'maker': 0.0022, 'taker': 0.0022, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}},
                 'ETH/BTC': { 'id': 'ETH/BTC', 'symbol': 'ETH/BTC', 'base': 'ETH', 'quote': 'BTC', 'maker': 0.0022, 'taker': 0.0022, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}},
                 'ETC/BTC': { 'id': 'ETC/BTC', 'symbol': 'ETC/BTC', 'base': 'ETC', 'quote': 'BTC', 'maker': 0.0022, 'taker': 0.0022, 'limits': { 'amount': { 'min': 0.001, 'max': undefined }}},
